@@ -1,0 +1,15 @@
+{
+  "timeZone": "America/Los_Angeles",
+  "oauthScopes": [
+    "https://www.googleapis.com/auth/calendar"
+  ],
+  "dependencies": {
+    "enabledAdvancedServices": [
+      {
+        "userSymbol": "Calendar",
+        "serviceId": "calendar",
+        "version": "v3"
+      }
+    ]
+  }
+}
